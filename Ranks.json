@@ -1,6 +1,6 @@
 {
  "Recontainment Unit": {
-   "Recruit": [1601452844
+   "Recruit": [
    ],
    "Junior Operative": [
    ],
@@ -17,6 +17,7 @@
    "Captain": [
    ],
    "Commander": [
+    1601452844
    ]
  }
 }
